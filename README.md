@@ -9,7 +9,7 @@ Visit my website at iissh.ca
 ### Project Showcase
 Checkout some of my projects! This section will be updated as I create more and more projects to share with you all!
 <p align="center">
-<img src="readme-imgs/project_showcase.gif">
+<img src="readme-imgs/projects_showcase.gif">
 </p>
 
 ### My Resume
