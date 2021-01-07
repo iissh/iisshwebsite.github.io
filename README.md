@@ -3,7 +3,7 @@
 This is my personal website where I showcase some of my projects and more information about me. I created it using HTML, CSS, and JavaScript.
 
 ## Check It Out
-Visit my website at iissh.ca
+Visit my website at https://iissh.ca/
 
 ## Notable Features
 ### Project Showcase
