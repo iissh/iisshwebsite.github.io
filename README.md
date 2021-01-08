@@ -7,7 +7,7 @@ Visit my website at https://iissh.ca/
 
 ## Notable Features
 ### Project Showcase
-Checkout some of my projects! This section will be updated as I create more and more projects to share with you all!
+Check out some of my projects! This section will be updated as I create more and more projects to share with you all!
 <p align="center">
 <img src="readme-imgs/projects_showcase.gif">
 </p>
