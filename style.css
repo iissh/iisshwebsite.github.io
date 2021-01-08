@@ -441,7 +441,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "Lets Connect";
+    content: "Let's Connect";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
